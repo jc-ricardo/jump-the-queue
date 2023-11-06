@@ -13,7 +13,7 @@ To build application on local execute below commands:
    
       `git clone https://github.com/devonfw/jump-the-queue.git`
       
-3. ** Building and running Jump-the-queue backend:**
+3. **Building and running Jump-the-queue backend:**
 
     To build backend navigate to `jump-the-queue\java\jtqj` folder from command line and execute command `mvn clean install`.
     
